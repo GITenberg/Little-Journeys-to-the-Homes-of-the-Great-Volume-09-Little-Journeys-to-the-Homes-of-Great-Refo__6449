@@ -1,0 +1,30 @@
+_repo: Little-Journeys-to-the-Homes-of-the-Great-Volume-09-Little-Journeys-to-the-Homes-of-Great-Refo__6449
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Elbertus, Fra
+    - Ali Baba
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reformers'
+- !lcc 'CT'
+tableOfContents: John Wesley -- Henry George -- Garibaldi -- Richard Cobden -- Thomas
+  Paine -- John Knox -- John Bright -- Bradlaugh -- Theodore Parker -- Oliver Cromwell
+  -- Anne Hutchinson -- Jean Jacques Rousseau.
+title: "Little Journeys to the Homes of the Great - Volume 09\r\nLittle Journeys to\
+  \ the Homes of Great Reformers"
+url: http://www.gutenberg.org/ebooks/6449
